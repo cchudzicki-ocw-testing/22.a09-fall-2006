@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Student biographical statement by Daon Ha.
-file: /media/courses/22-a09-career-options-for-biomedical-research-fall-2006/632fe59a4290c60b47d64132c715182e_daon_ha.pdf
+description: ''
+file: /media/courses/22-a09-career-options-for-biomedical-research-fall-2006/dcd49c05c10b9b1288ed5e29782f2b7a_lec8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -11,7 +11,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 80441a90-08fd-8eba-970c-e8249199d163
 resourcetype: Document
-title: daon_ha.pdf
-uid: 632fe59a-4290-c60b-47d6-4132c715182e
+title: lec8.pdf
+uid: dcd49c05-c10b-9b12-88ed-5e29782f2b7a
 ---
-Student biographical statement by Daon Ha.
